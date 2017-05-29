@@ -1,2 +1,8 @@
 # ActiveData-redash-query-runner
-query Runner for Redash
+
+Query Runner for Redash
+
+
+## Instructions 
+
+Drop into the `redash/query_runner` directory, then restart the Redash service
